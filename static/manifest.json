@@ -1,0 +1,72 @@
+{
+    "start_url": "/?utm_source=homescreen",
+    "name": "借力宝",
+    "short_name": "借力宝",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "img/icons/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "img/icons/android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/icons/apple-touch-icon-180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "img/icons/apple-touch-icon-152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "img/icons/android-chrome-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "splash/ios-launchimage-640-960.png",
+            "type": "image/png",
+            "sizes": "640x960"
+        },
+        {
+            "src": "splash/ios-launchimage-640-1136.png",
+            "type": "image/png",
+            "sizes": "640x1136"
+        },
+        {
+            "src": "splash/ios-launchimage-750-1334.png",
+            "type": "image/png",
+            "sizes": "750x1334"
+        },
+        {
+            "src": "splash/ios-launchimage-768-1024.png",
+            "type": "image/png",
+            "sizes": "768x1024"
+        },
+        {
+            "src": "splash/ios-launchimage-1125-2436.png",
+            "type": "image/png",
+            "sizes": "1125x2436"
+        },
+        {
+            "src": "splash/ios-launchimage-1242-2208.png",
+            "type": "image/png",
+            "sizes": "1242x2208"
+        },
+        {
+            "src": "splash/ios-launchimage-1536-2048.png",
+            "type": "image/png",
+            "sizes": "1536x2048"
+        }
+    ],
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#278fef"
+}
